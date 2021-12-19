@@ -220,13 +220,7 @@ h1 {
   display: inline;
 }
 
-h1:hover {
-    /* font-weight: 900; */
-    /* font-stretch: 999; */
-    font-stretch: condensed;
-    transition: 0.3s ease;
-    animation: shrink 7s ease 2s 1 normal forwards;
-}
+
 
 h2 {
   font-family: 'Apfel Grotezk', sans-serif;

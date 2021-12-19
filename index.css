@@ -221,7 +221,6 @@ h1 {
 }
 
 
-
 h2 {
   font-family: 'Apfel Grotezk', sans-serif;
   font-weight: normal;
@@ -232,11 +231,16 @@ h2 {
   display: inline;
 }
 
-
-
 .description {
+
   width: 95vw;
   display: flex;
+  font-family: 'Apfel Grotezk', sans-serif;
+  font-size: 1.4vw;
+  line-height: 1.6vw;
+  color: black;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 
 p {
@@ -250,6 +254,7 @@ p {
   padding-right: 2vw;
   /* padding-top: 3vh; */
 }
+
 
 span {
   font-family: 'Apfel Grotezk', sans-serif;
@@ -268,9 +273,6 @@ input[type='checkbox'] {
 .lbl-toggle {
   display: block;
   padding: 1rem;
-  /* padding-top: 2rem; */
-  /* background: white; */
-
   cursor: pointer;
   border-radius: 7px;
   transition: all 0.25s ease-out;

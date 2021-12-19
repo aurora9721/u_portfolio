@@ -206,7 +206,7 @@ img {
 iframe {
   height: 60vh;
   object-fit: contain;
-  margin: 2vw;
+  margin: 10px;
   transform: rotateX(180deg);
 }
 

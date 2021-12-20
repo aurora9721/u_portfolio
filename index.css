@@ -279,6 +279,15 @@ input[type='checkbox'] {
 }
 
 /* ~~~~~~~~ toggle IMAGE BACKGROUNDS ~~~~~~~~~~ */
+#tog01{
+    background-image: url(images/insitu_4.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+#tog01:hover {
+  background-image: none;
+}
 
 #tog0{
     background-image: url(images/dwellers_4.gif);

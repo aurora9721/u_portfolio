@@ -309,15 +309,6 @@ input[type='checkbox'] {
   background-image: none;
 }
 
-#tog2{
-    background-image: url(images/lmgp7_8.png);
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover;
-}
-#tog2:hover {
-  background-image: none;
-}
 
 #tog3{
     background-image: url(images/kijkvrij_9.jpg);
@@ -492,8 +483,19 @@ b:hover {
     padding-right: 2vw;
   }
 
+  #tog01{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/insitu_4.jpg);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog01:hover {
+    background: black;
+  }
+
   #tog0{
-      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/dwellers_3.png);
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/dwellers_4.gif);
       background-blend-mode: darken;
       background-position: center; /* Center the image */
       background-repeat: no-repeat; /* Do not repeat the image */
@@ -512,19 +514,9 @@ b:hover {
   #tog1:hover {
     background: black;
   }
-  #tog2{
-      background: linear-gradient(-30deg, transparent 20%, #000f56), url(images/lmgp7_8.png);
-      background-blend-mode: darken;
-      background-position: center; /* Center the image */
-      background-repeat: no-repeat; /* Do not repeat the image */
-      background-size: cover;
 
-  }
-  #tog2:hover {
-    background: black;
-  }
   #tog3{
-      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/kijkvrij_8.png);
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/kijkvrij_9.jpg);
       background-blend-mode: darken;
       background-position: center; /* Center the image */
       background-repeat: no-repeat; /* Do not repeat the image */
@@ -555,13 +547,68 @@ b:hover {
   }
 
   #tog6{
-      background: linear-gradient(-30deg, transparent 20%, #000f56), url(images/);
+      background: linear-gradient(-30deg, transparent 20%, #000f56), url(images/binnentuin_4.gif);
       background-blend-mode: darken;
       background-position: center; /* Center the image */
       background-repeat: no-repeat; /* Do not repeat the image */
       background-size: cover;
   }
   #tog6:hover {
+    background: black;
+  }
+
+  #tog7{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/quilts_9.png);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog7:hover {
+    background: black;
+  }
+
+  #tog8{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/secret_1.png);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog8:hover {
+    background: black;
+  }
+
+  #tog9{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/borders_9.png);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog9:hover {
+    background: black;
+  }
+
+  #tog10{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/journey_4.png);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog10:hover {
+    background: black;
+  }
+
+  #tog11{
+      background: linear-gradient(-30deg,transparent 20%, #000f56), url(images/babylon_1.png);
+      background-blend-mode: darken;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover;
+  }
+  #tog11:hover {
     background: black;
   }
 
@@ -579,7 +626,7 @@ b:hover {
   }
 
   p {
-    font-size: 3.5vw;
+    font-size: 3.3vw;
     line-height: 3.5vw;
     padding-left: 2vw;
     padding-right: 2vw;
@@ -587,7 +634,7 @@ b:hover {
   }
 
   span {
-    font-size: 3.5vw;
+    font-size: 3.3vw;
   }
 
   #swipe {

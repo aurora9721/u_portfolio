@@ -409,15 +409,6 @@ input[type='checkbox'] {
   background-image: none;
 }
 
-#tog12{
-    background-image: url(images/spheres_3.png);
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover;
-}
-#tog12:hover {
-  background-image: none;
-}
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 

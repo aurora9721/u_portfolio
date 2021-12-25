@@ -85,6 +85,18 @@ button {
 
 }
 
+
+.app {
+  font-family: 'Apfel Grotezk', sans-serif;
+  font-size: 1.3vw;
+  width: auto;
+  color: grey;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  float: left;
+
+}
+
 #name {
   float: left;
   font-family:'Apfel Grotezk', sans-serif;
@@ -242,6 +254,7 @@ h2 {
   padding-left: 2vw;
   padding-right: 2vw;
 }
+
 
 p {
   width: 47vw;

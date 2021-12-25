@@ -88,7 +88,7 @@ button {
 
 .app {
   font-family: 'Apfel Grotezk', sans-serif;
-  font-size: 1.3vw;
+  font-size: 1.4vw;
   width: auto;
   color: grey;
   padding-left: 1vw;
@@ -503,6 +503,14 @@ b:hover {
     font-size: 3vw;
     padding-left: 2vw;
     padding-right: 2vw;
+  }
+
+  .app {
+    font-size: 3vw;
+    line-height: 4vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+
   }
 
   #tog01{
